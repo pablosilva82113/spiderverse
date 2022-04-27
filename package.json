@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .//node_modules//.bin//jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosilva82113/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablosilva82113/spiderverse/issues"
+  },
+  "homepage": "https://github.com/pablosilva82113/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
